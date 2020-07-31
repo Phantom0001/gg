@@ -12,3 +12,7 @@ Goals:
 9. Remove quests from quest list. 
 10. Points 
 11. Prize list
+12. List of members
+13. Points needed to rank up
+14. Rank list
+15. Guild Hall Location
