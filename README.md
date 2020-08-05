@@ -1,4 +1,5 @@
 # gg
+Social networking game with avatars. 
 Website for game database
 Goals: 
 1. Login 
