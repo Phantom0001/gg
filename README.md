@@ -17,3 +17,8 @@ Goals:
 13. Points needed to rank up
 14. Rank list
 15. Guild Hall Location
+16. 
+17. 
+18. 
+19. 
+20. 
