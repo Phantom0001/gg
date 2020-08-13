@@ -17,8 +17,8 @@ Goals:
 13. Points needed to rank up
 14. Rank list
 15. Guild Hall Location
-16. 
-17. 
-18. 
-19. 
-20. 
+16. Sea content
+17. Tavern (Fairy Foods)
+18. Daily Quests that assist growth of member's professions
+19. Repair Center
+20. Farming Tips
